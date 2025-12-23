@@ -56,6 +56,7 @@ make clean
 ```
 
 - - -
+### Alternative Way to Run
 
 Run the following cmd to compile and make exe of the algorithm.
 
@@ -76,3 +77,8 @@ The python script is utilized to generate plots of the results. Ensure to instal
 python3 analyze_pagerank.py pagerank_results.csv
 
 ```
+
+## References
+
+[Click here](https://snap.stanford.edu/data/web-Stanford.html)  to visit Stanford webpage dataset.
+
