@@ -1,5 +1,4 @@
 venv/
-analyze_pagerank.py
 baseline.txt
 pagerank
 pagerank_2
