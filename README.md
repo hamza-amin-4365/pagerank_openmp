@@ -22,6 +22,41 @@ Threads | Time (s)  | Speedup | Efficiency
 
 ## How to Get Started
 
+### Running Using **Makefile**
+
+Build the compiled file
+
+```
+make
+```
+
+Run the script according to how many threads you like
+
+```
+# num_threads = 1
+make run-1 
+
+# num_threads = 2
+make run-2
+
+# num_threads = 4
+make run-4
+
+# num_threads = 8
+make run-8
+
+# num_threads = 16
+make run-16
+```
+
+Clean the compiled versions
+
+```
+make clean
+```
+
+- - -
+
 Run the following cmd to compile and make exe of the algorithm.
 
 ```
